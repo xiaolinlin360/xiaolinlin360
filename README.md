@@ -1,9 +1,14 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=aura&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=catppuccin_latte&hide_border=true" />
-    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=Mushi0&locale=en&theme=catppuccin_latte&hide_border=true" width="50%" />
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <!-- 深色模式（Aura 主题） -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=xiaolinlin&hide_border=true&card_height=210&theme=aura&locale=en" />
+      <!-- 浅色模式（Catppuccin Latte 主题） -->
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=xiaolinlin&hide_border=true&card_height=210&theme=catppuccin_latte&locale=en" />
+      <!-- 兜底图片（默认显示浅色模式） -->
+      <img src="https://streak-stats.demolab.com?user=xiaolinlin&hide_border=true&card_height=210&theme=catppuccin_latte&locale=en" alt="GitHub Streak" />
+    </picture>
+  </a>
 </div>
 <!-- Snake -->
 <div align="center">
